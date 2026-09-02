@@ -1,0 +1,17 @@
+```css
+form {
+    width: 250px;
+    margin: 50px auto;
+}
+
+input {
+    display: block;
+    margin: 10px;
+    padding: 8px;
+}
+
+button {
+    margin: 10px;
+    padding: 8px 20px;
+}
+```
